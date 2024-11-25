@@ -3,7 +3,9 @@
 Este proyecto forma parte de un trabajo universitario y utiliza la metodología **CRISP-DM** para analizar un conjunto de datos de ventas de Amazon. El objetivo es identificar patrones y generar insights útiles para optimizar ventas, mejorar la experiencia del cliente y maximizar la rentabilidad.
 
 ## Archivos en el Repositorio
-
+- **`Proyecto Minería.pdf`**  
+  Contienen todos los puntos desarrollados y detallados referente a la metodología CRISP-DM a modo de informe, sobre las ventas AMAZON. Además, se encuentran tanto la comprensión del negocios, objetivos y análisis de riesgos y amenazas del proyecto. Por último, reportamos la evaluación de resultados y recomendaciones futuras.
+  
 - **`FP-Growth.ipynb`**  
   Contiene la implementación del modelo **FP-Growth**, utilizado para identificar reglas de asociación en los datos, junto con su evaluación y los resultados obtenidos.  
 
